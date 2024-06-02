@@ -1,0 +1,18 @@
+.odd {
+    background-color: pink;
+    font-family: "Verdana", "Dejavu Sans", sans-serif;
+}
+
+#second {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+#fourth {
+    background-color: #90ee90;
+    font-weight: bold;
+}
+
+.twenfour {
+    font-size: 24px;
+}
